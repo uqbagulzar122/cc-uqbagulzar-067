@@ -2,10 +2,10 @@
 Cloud Computing Lab 01
 📘 Course Information
 Course Title: Cloud Computing
-Instructor: Engr. Shoaib
+Instructor: Sir Waqas
 Submitted By: Uqba Gulzar
 Registration No: 2023-BSE-067
-Section: IV-B
+Section: V-B
 
 🧪 Lab Overview
 This lab introduces the basics of virtualization using VMware Workstation Pro and demonstrates how to create and configure a virtual machine (VM) running Ubuntu Server. Students learn to establish SSH connections between Windows and Ubuntu environments.
